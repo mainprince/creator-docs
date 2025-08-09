@@ -1,8 +1,7 @@
----
+steal a garden 
 title: The social 3D creation platform
 description: Explains the things you can create on Roblox.
-hideInPageNavigation: true
----
+hideInPageNavigation🏗️
 
 export const statsByline = "* Figures are as of Q4 2024";
 
@@ -46,8 +45,7 @@ export const sections = [
         ]
       },
       {
-        title: "Creator Hub",
-        description: "Manage your creations, view analytics, track earnings, and connect with the community, all from your web browser.",
+        title: "Creator Hub","        description: "Manage your creations, view analytics, track earnings, and connect with the community, all from your web browser.",
         links: [
           { text: "Go to Creator Hub", href: "https://create.roblox.com/" },
           { text: "Learn more", href: "./creator-hub" }
@@ -56,26 +54,22 @@ export const sections = [
     ]
   },
   {
-    title: "Large, multiplayer experiences on any device",
-    description: "Experiences are the 3D worlds you create, including games, communication or learning environments, visual showcases, concerts, real life simulations, and more.",
+    title: "Large, multiplayer experiences on any device","    description: "Experiences are the 3D worlds you create, including games, communication or learning environments, visual showcases, concerts, real life simulations, and more.",
     buttons: [
       { text: "Get started", href: "./experiences" },
       { text: "Engine API", href: "./reference/engine/" }
     ],
     content: [
       {
-        title: "Simulated by default",
-        description: "Construct 3D worlds that closely simulate real life with out-of-the-box objects and services. The Roblox engine provides default behavior and logic that do the heavy lifting.",
+        title: "Simulated by default","        description: "Construct 3D worlds that closely simulate real life with out-of-the-box objects and services. The Roblox engine provides default behavior and logic that do the heavy lifting.",
         image: "./assets/landing/engine-simulation.gif"
       },
       {
-        title: "Infinitely customizable",
-        description: "Almost everything in Roblox is customizable and dynamic, letting you override default properties in the engine at build time or with scripts at runtime.",
+        title: "Infinitely customizable","        description: "Almost everything in Roblox is customizable and dynamic, letting you override default properties in the engine at build time or with scripts at runtime.",
         image: "/assets/landing/scripting-animation.gif"
       },
       {
-        title: "Intelligent client streaming",
-        description: "The Roblox engine adjusts how it delivers your experiences to clients based on available resources, so anything you create runs on all devices automatically.",
+        title: "Intelligent client streaming","        description: "The Roblox engine adjusts how it delivers your experiences to clients based on available resources, so anything you create runs on all devices automatically.",
         image: "./assets/scripting/client-server/Remote-Flow-Server-All-Clients.png"
       },
     ]
